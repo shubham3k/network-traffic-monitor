@@ -47,11 +47,7 @@ A real-time web-based dashboard that captures, analyzes, and visualizes network 
 
 ## Installation
 
-### 1. Clone or Navigate to Project
-
-```bash
-cd "/home/sk/Web dev/net"
-```
+### 1. Clone the repo link
 
 ### 2. Backend Setup
 
